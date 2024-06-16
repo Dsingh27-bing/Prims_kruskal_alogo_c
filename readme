@@ -1,0 +1,14 @@
+Language - C
+Compilation - gcc
+run command - 
+
+step 1: make
+step 2:./program
+
+step3: to select prim's algo enter p
+step4: to select kruskal's algo enter k
+
+
+
+
+Note : please be careful with selection only p and k will work as i have used switch case. 
